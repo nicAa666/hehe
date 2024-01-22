@@ -7,7 +7,7 @@ index.html<!DOCTYPE html>
     <body>
         <div class="container">
             <div >
-                <h1 class = "header_text">Do you wanna go out with me ehe</h1>
+                <h1 class = "header_text">love mo pa rin ba me ket putik ako ehe</h1>
             </div>
             <div class="gif_container">
                 <img src="https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif" alt="Cute animated illustration">
